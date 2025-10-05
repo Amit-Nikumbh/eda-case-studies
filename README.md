@@ -24,7 +24,7 @@ Each notebook is structured to reflect a complete **data exploration workflow** 
 ## 📂 Repository Structure
 
 ```
-eda-portfolio/
+eda-case-studies/
 │── 📄 README.md                  # Main overview of all projects
 │── 📄 requirements.txt           # Common dependencies
 │
