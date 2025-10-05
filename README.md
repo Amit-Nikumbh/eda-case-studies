@@ -23,6 +23,7 @@ Each notebook is structured to reflect a complete **data exploration workflow** 
 
 ## 📂 Repository Structure
 
+```
 eda-portfolio/
 │── 📄 README.md                  # Main overview of all projects
 │── 📄 requirements.txt           # Common dependencies
@@ -44,7 +45,7 @@ eda-portfolio/
 │   │── 📄 youtube_eda.ipynb
 │   │── 📁 data/
 │   │── 📁 visuals/
-
+```
 
 ---
 
